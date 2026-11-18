@@ -1,0 +1,27 @@
+[
+   {
+      "directory" : "C:/Users/user/workspace_ccstheia/BIS_W11_F28P55x_Empty_Test/CPU1_RAM",
+      "command"   : "clang++ -I\"C:/Users/user/workspace_ccstheia/BIS_W11_F28P55x_Empty_Test\" -I\"C:/ti/C2000Ware_26_01_00_00\" -I\"C:/Users/user/workspace_ccstheia/BIS_W11_F28P55x_Empty_Test/device\" -I\"C:/ti/C2000Ware_26_01_00_00/driverlib/f28p55x/driverlib/\" -I\"C:/ti/ccs2101/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -DDEBUG -DRAM -I\"C:/Users/user/workspace_ccstheia/BIS_W11_F28P55x_Empty_Test/CPU1_RAM/syscfg\" -DF28P55x=1 -xc",
+      "file"      : "C:/Users/user/workspace_ccstheia/BIS_W11_F28P55x_Empty_Test/device/device.c"
+   },
+   {
+      "directory" : "C:/Users/user/workspace_ccstheia/BIS_W11_F28P55x_Empty_Test/CPU1_RAM",
+      "command"   : "clang++ -I\"C:/Users/user/workspace_ccstheia/BIS_W11_F28P55x_Empty_Test\" -I\"C:/ti/C2000Ware_26_01_00_00\" -I\"C:/Users/user/workspace_ccstheia/BIS_W11_F28P55x_Empty_Test/device\" -I\"C:/ti/C2000Ware_26_01_00_00/driverlib/f28p55x/driverlib/\" -I\"C:/ti/ccs2101/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -DDEBUG -DRAM -I\"C:/Users/user/workspace_ccstheia/BIS_W11_F28P55x_Empty_Test/CPU1_RAM/syscfg\" -DF28P55x=1",
+      "file"      : "C:/Users/user/workspace_ccstheia/BIS_W11_F28P55x_Empty_Test/device/f28p55x_codestartbranch.asm"
+   },
+   {
+      "directory" : "C:/Users/user/workspace_ccstheia/BIS_W11_F28P55x_Empty_Test/CPU1_RAM",
+      "command"   : "clang++ -I\"C:/Users/user/workspace_ccstheia/BIS_W11_F28P55x_Empty_Test\" -I\"C:/ti/C2000Ware_26_01_00_00\" -I\"C:/Users/user/workspace_ccstheia/BIS_W11_F28P55x_Empty_Test/device\" -I\"C:/ti/C2000Ware_26_01_00_00/driverlib/f28p55x/driverlib/\" -I\"C:/ti/ccs2101/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -DDEBUG -DRAM -I\"C:/Users/user/workspace_ccstheia/BIS_W11_F28P55x_Empty_Test/CPU1_RAM/syscfg\" -DF28P55x=1 -xc",
+      "file"      : "C:/Users/user/workspace_ccstheia/BIS_W11_F28P55x_Empty_Test/empty_driverlib_main.c"
+   },
+   {
+      "directory" : "C:/Users/user/workspace_ccstheia/BIS_W11_F28P55x_Empty_Test/CPU1_RAM",
+      "command"   : "clang++ -I\"C:/Users/user/workspace_ccstheia/BIS_W11_F28P55x_Empty_Test\" -I\"C:/ti/C2000Ware_26_01_00_00\" -I\"C:/Users/user/workspace_ccstheia/BIS_W11_F28P55x_Empty_Test/device\" -I\"C:/ti/C2000Ware_26_01_00_00/driverlib/f28p55x/driverlib/\" -I\"C:/ti/ccs2101/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -DDEBUG -DRAM -I\"C:/Users/user/workspace_ccstheia/BIS_W11_F28P55x_Empty_Test/CPU1_RAM/syscfg\" -DF28P55x=1 -xc",
+      "file"      : "C:/Users/user/workspace_ccstheia/BIS_W11_F28P55x_Empty_Test/CPU1_RAM/syscfg/board.c"
+   },
+   {
+      "directory" : "C:/Users/user/workspace_ccstheia/BIS_W11_F28P55x_Empty_Test/CPU1_RAM",
+      "command"   : "clang++ -I\"C:/Users/user/workspace_ccstheia/BIS_W11_F28P55x_Empty_Test\" -I\"C:/ti/C2000Ware_26_01_00_00\" -I\"C:/Users/user/workspace_ccstheia/BIS_W11_F28P55x_Empty_Test/device\" -I\"C:/ti/C2000Ware_26_01_00_00/driverlib/f28p55x/driverlib/\" -I\"C:/ti/ccs2101/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -DDEBUG -DRAM -I\"C:/Users/user/workspace_ccstheia/BIS_W11_F28P55x_Empty_Test/CPU1_RAM/syscfg\" -DF28P55x=1 -xc",
+      "file"      : "C:/Users/user/workspace_ccstheia/BIS_W11_F28P55x_Empty_Test/CPU1_RAM/syscfg/c2000ware_libraries.c"
+   }
+]
