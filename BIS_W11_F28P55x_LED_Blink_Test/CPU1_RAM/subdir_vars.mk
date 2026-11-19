@@ -12,7 +12,7 @@ SYSCFG_SRCS += \
 ../c2000.syscfg 
 
 LIB_SRCS += \
-C:/ti/C2000Ware_26_01_00_00/driverlib/f28p55x/driverlib/ccs/Debug/driverlib.lib 
+C:/ti/c2000/C2000Ware_26_01_00_00/driverlib/f28p55x/driverlib/ccs/Debug/driverlib.lib 
 
 C_SRCS += \
 ./syscfg/board.c \

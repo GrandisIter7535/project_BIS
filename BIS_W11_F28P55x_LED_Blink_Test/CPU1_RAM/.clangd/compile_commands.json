@@ -1,27 +1,27 @@
 [
    {
-      "directory" : "C:/Users/user/workspace_ccstheia/BIS_W11_F28P55x_LED_Blink_Test/CPU1_RAM",
-      "command"   : "clang++ -I\"C:/Users/user/workspace_ccstheia/BIS_W11_F28P55x_LED_Blink_Test\" -I\"C:/ti/C2000Ware_26_01_00_00\" -I\"C:/Users/user/workspace_ccstheia/BIS_W11_F28P55x_LED_Blink_Test/device\" -I\"C:/ti/C2000Ware_26_01_00_00/driverlib/f28p55x/driverlib/\" -I\"C:/ti/ccs2101/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -DDEBUG -DRAM -I\"C:/Users/user/workspace_ccstheia/BIS_W11_F28P55x_LED_Blink_Test/CPU1_RAM/syscfg\" -DF28P55x=1 -xc",
-      "file"      : "C:/Users/user/workspace_ccstheia/BIS_W11_F28P55x_LED_Blink_Test/CPU1_RAM/syscfg/board.c"
+      "directory" : "C:/Users/user/Documents/project_BIS/BIS_W11_F28P55x_LED_Blink_Test/CPU1_RAM",
+      "command"   : "clang++ -I\"C:/Users/user/Documents/project_BIS/BIS_W11_F28P55x_LED_Blink_Test\" -I\"C:/ti/c2000/C2000Ware_26_01_00_00\" -I\"C:/Users/user/Documents/project_BIS/BIS_W11_F28P55x_LED_Blink_Test/device\" -I\"C:/ti/c2000/C2000Ware_26_01_00_00/driverlib/f28p55x/driverlib/\" -I\"C:/ti/ccs2100/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -DDEBUG -DRAM -I\"C:/Users/user/Documents/project_BIS/BIS_W11_F28P55x_LED_Blink_Test/CPU1_RAM/syscfg\" -DF28P55x=1 -xc",
+      "file"      : "C:/Users/user/Documents/project_BIS/BIS_W11_F28P55x_LED_Blink_Test/CPU1_RAM/syscfg/board.c"
    },
    {
-      "directory" : "C:/Users/user/workspace_ccstheia/BIS_W11_F28P55x_LED_Blink_Test/CPU1_RAM",
-      "command"   : "clang++ -I\"C:/Users/user/workspace_ccstheia/BIS_W11_F28P55x_LED_Blink_Test\" -I\"C:/ti/C2000Ware_26_01_00_00\" -I\"C:/Users/user/workspace_ccstheia/BIS_W11_F28P55x_LED_Blink_Test/device\" -I\"C:/ti/C2000Ware_26_01_00_00/driverlib/f28p55x/driverlib/\" -I\"C:/ti/ccs2101/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -DDEBUG -DRAM -I\"C:/Users/user/workspace_ccstheia/BIS_W11_F28P55x_LED_Blink_Test/CPU1_RAM/syscfg\" -DF28P55x=1 -xc",
-      "file"      : "C:/Users/user/workspace_ccstheia/BIS_W11_F28P55x_LED_Blink_Test/CPU1_RAM/syscfg/c2000ware_libraries.c"
+      "directory" : "C:/Users/user/Documents/project_BIS/BIS_W11_F28P55x_LED_Blink_Test/CPU1_RAM",
+      "command"   : "clang++ -I\"C:/Users/user/Documents/project_BIS/BIS_W11_F28P55x_LED_Blink_Test\" -I\"C:/ti/c2000/C2000Ware_26_01_00_00\" -I\"C:/Users/user/Documents/project_BIS/BIS_W11_F28P55x_LED_Blink_Test/device\" -I\"C:/ti/c2000/C2000Ware_26_01_00_00/driverlib/f28p55x/driverlib/\" -I\"C:/ti/ccs2100/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -DDEBUG -DRAM -I\"C:/Users/user/Documents/project_BIS/BIS_W11_F28P55x_LED_Blink_Test/CPU1_RAM/syscfg\" -DF28P55x=1 -xc",
+      "file"      : "C:/Users/user/Documents/project_BIS/BIS_W11_F28P55x_LED_Blink_Test/CPU1_RAM/syscfg/c2000ware_libraries.c"
    },
    {
-      "directory" : "C:/Users/user/workspace_ccstheia/BIS_W11_F28P55x_LED_Blink_Test/CPU1_RAM",
-      "command"   : "clang++ -I\"C:/Users/user/workspace_ccstheia/BIS_W11_F28P55x_LED_Blink_Test\" -I\"C:/ti/C2000Ware_26_01_00_00\" -I\"C:/Users/user/workspace_ccstheia/BIS_W11_F28P55x_LED_Blink_Test/device\" -I\"C:/ti/C2000Ware_26_01_00_00/driverlib/f28p55x/driverlib/\" -I\"C:/ti/ccs2101/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -DDEBUG -DRAM -I\"C:/Users/user/workspace_ccstheia/BIS_W11_F28P55x_LED_Blink_Test/CPU1_RAM/syscfg\" -DF28P55x=1 -xc",
-      "file"      : "C:/Users/user/workspace_ccstheia/BIS_W11_F28P55x_LED_Blink_Test/device/device.c"
+      "directory" : "C:/Users/user/Documents/project_BIS/BIS_W11_F28P55x_LED_Blink_Test/CPU1_RAM",
+      "command"   : "clang++ -I\"C:/Users/user/Documents/project_BIS/BIS_W11_F28P55x_LED_Blink_Test\" -I\"C:/ti/c2000/C2000Ware_26_01_00_00\" -I\"C:/Users/user/Documents/project_BIS/BIS_W11_F28P55x_LED_Blink_Test/device\" -I\"C:/ti/c2000/C2000Ware_26_01_00_00/driverlib/f28p55x/driverlib/\" -I\"C:/ti/ccs2100/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -DDEBUG -DRAM -I\"C:/Users/user/Documents/project_BIS/BIS_W11_F28P55x_LED_Blink_Test/CPU1_RAM/syscfg\" -DF28P55x=1 -xc",
+      "file"      : "C:/Users/user/Documents/project_BIS/BIS_W11_F28P55x_LED_Blink_Test/device/device.c"
    },
    {
-      "directory" : "C:/Users/user/workspace_ccstheia/BIS_W11_F28P55x_LED_Blink_Test/CPU1_RAM",
-      "command"   : "clang++ -I\"C:/Users/user/workspace_ccstheia/BIS_W11_F28P55x_LED_Blink_Test\" -I\"C:/ti/C2000Ware_26_01_00_00\" -I\"C:/Users/user/workspace_ccstheia/BIS_W11_F28P55x_LED_Blink_Test/device\" -I\"C:/ti/C2000Ware_26_01_00_00/driverlib/f28p55x/driverlib/\" -I\"C:/ti/ccs2101/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -DDEBUG -DRAM -I\"C:/Users/user/workspace_ccstheia/BIS_W11_F28P55x_LED_Blink_Test/CPU1_RAM/syscfg\" -DF28P55x=1",
-      "file"      : "C:/Users/user/workspace_ccstheia/BIS_W11_F28P55x_LED_Blink_Test/device/f28p55x_codestartbranch.asm"
+      "directory" : "C:/Users/user/Documents/project_BIS/BIS_W11_F28P55x_LED_Blink_Test/CPU1_RAM",
+      "command"   : "clang++ -I\"C:/Users/user/Documents/project_BIS/BIS_W11_F28P55x_LED_Blink_Test\" -I\"C:/ti/c2000/C2000Ware_26_01_00_00\" -I\"C:/Users/user/Documents/project_BIS/BIS_W11_F28P55x_LED_Blink_Test/device\" -I\"C:/ti/c2000/C2000Ware_26_01_00_00/driverlib/f28p55x/driverlib/\" -I\"C:/ti/ccs2100/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -DDEBUG -DRAM -I\"C:/Users/user/Documents/project_BIS/BIS_W11_F28P55x_LED_Blink_Test/CPU1_RAM/syscfg\" -DF28P55x=1",
+      "file"      : "C:/Users/user/Documents/project_BIS/BIS_W11_F28P55x_LED_Blink_Test/device/f28p55x_codestartbranch.asm"
    },
    {
-      "directory" : "C:/Users/user/workspace_ccstheia/BIS_W11_F28P55x_LED_Blink_Test/CPU1_RAM",
-      "command"   : "clang++ -I\"C:/Users/user/workspace_ccstheia/BIS_W11_F28P55x_LED_Blink_Test\" -I\"C:/ti/C2000Ware_26_01_00_00\" -I\"C:/Users/user/workspace_ccstheia/BIS_W11_F28P55x_LED_Blink_Test/device\" -I\"C:/ti/C2000Ware_26_01_00_00/driverlib/f28p55x/driverlib/\" -I\"C:/ti/ccs2101/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -DDEBUG -DRAM -I\"C:/Users/user/workspace_ccstheia/BIS_W11_F28P55x_LED_Blink_Test/CPU1_RAM/syscfg\" -DF28P55x=1 -xc",
-      "file"      : "C:/Users/user/workspace_ccstheia/BIS_W11_F28P55x_LED_Blink_Test/empty_driverlib_main.c"
+      "directory" : "C:/Users/user/Documents/project_BIS/BIS_W11_F28P55x_LED_Blink_Test/CPU1_RAM",
+      "command"   : "clang++ -I\"C:/Users/user/Documents/project_BIS/BIS_W11_F28P55x_LED_Blink_Test\" -I\"C:/ti/c2000/C2000Ware_26_01_00_00\" -I\"C:/Users/user/Documents/project_BIS/BIS_W11_F28P55x_LED_Blink_Test/device\" -I\"C:/ti/c2000/C2000Ware_26_01_00_00/driverlib/f28p55x/driverlib/\" -I\"C:/ti/ccs2100/ccs/tools/compiler/ti-cgt-c2000_25.11.1.LTS/include\" -DDEBUG -DRAM -I\"C:/Users/user/Documents/project_BIS/BIS_W11_F28P55x_LED_Blink_Test/CPU1_RAM/syscfg\" -DF28P55x=1 -xc",
+      "file"      : "C:/Users/user/Documents/project_BIS/BIS_W11_F28P55x_LED_Blink_Test/empty_driverlib_main.c"
    }
 ]
